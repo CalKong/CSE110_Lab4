@@ -19,7 +19,8 @@ public class SummaryPresenter extends AbstractPresenter<SummaryView> {
         this.onBack = action;
     }
 
-    public void refresh() {
+    @Override
+    public void updateView() {
         view.setTotal(model.getTotalSpending());
     }
 
@@ -28,4 +29,3 @@ public class SummaryPresenter extends AbstractPresenter<SummaryView> {
         return "Summary";
     }
 }
-

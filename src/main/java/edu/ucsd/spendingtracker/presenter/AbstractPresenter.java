@@ -17,6 +17,8 @@ public abstract class AbstractPresenter<V extends Region> {
 
     public abstract String getViewTitle();
 
+    public abstract void updateView();
+
     public Scene getView() {
         return this.scene;
     }

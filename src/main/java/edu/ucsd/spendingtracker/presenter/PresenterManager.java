@@ -10,7 +10,7 @@ public class PresenterManager {
         PresenterSwitcher switcher = new PresenterSwitcher(stage, appName);
 
         spendingPresenter.setOnShowSummary(() -> {
-            summaryPresenter.refresh();
+            summaryPresenter.updateView();
             switcher.switchTo(summaryPresenter);
         });
 
