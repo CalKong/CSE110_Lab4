@@ -13,4 +13,7 @@
 /Users/calvinkong/CS_Classes/CSE110/CSE110_Lab4/src/main/java/edu/ucsd/spendingtracker/repository/ExpenseRepository.java
 /Users/calvinkong/CS_Classes/CSE110/CSE110_Lab4/src/main/java/edu/ucsd/spendingtracker/view/SpendingView.java
 /Users/calvinkong/CS_Classes/CSE110/CSE110_Lab4/src/main/java/edu/ucsd/spendingtracker/view/SummaryView.java
+/Users/calvinkong/CS_Classes/CSE110/CSE110_Lab4/src/main/java/edu/ucsd/spendingtracker/view/charts/BarChartProvider.java
+/Users/calvinkong/CS_Classes/CSE110/CSE110_Lab4/src/main/java/edu/ucsd/spendingtracker/view/charts/IChartProvider.java
+/Users/calvinkong/CS_Classes/CSE110/CSE110_Lab4/src/main/java/edu/ucsd/spendingtracker/view/charts/PieChartProvider.java
 /Users/calvinkong/CS_Classes/CSE110/CSE110_Lab4/src/main/java/module-info.java
